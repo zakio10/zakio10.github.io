@@ -1,6 +1,6 @@
 ---
 ---
-[日本語](japanese.md)
+<a href="/japanese">日本語</a>
 ## Welcome to Mypage!
 ### Education
 - Mikage High School 2014-2017
