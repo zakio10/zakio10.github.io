@@ -1,4 +1,7 @@
 ---
+theme: jekyll-theme-cayman
+title: Kanezaki Shota
+description: I'm a Japanese univ student. I major in computer science.
 ---
 <a href="/japanese">日本語</a>
 ## Welcome to Mypage!
