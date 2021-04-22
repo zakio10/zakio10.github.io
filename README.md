@@ -1,21 +1,8 @@
-## Welcome to GitHub Pages
-
+## Welcome to Mypage!
 ### Education
+- Mikage High School 2014-2017
+- Sundai Preparatory School 2017-2018
 - Doshisha Univ 2018-2022
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Cancel changes
-```markdown
-Syntax highlighted code block
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-```
+### Interest
+Machine Learning, Natural Language Processing, Dialogue system
