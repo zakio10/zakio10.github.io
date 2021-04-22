@@ -1,4 +1,5 @@
 ## Welcome to Mypage!
+Go to [日本語](.md)
 ### Education
 - Mikage High School 2014-2017
 - Sundai Preparatory School 2017-2018
