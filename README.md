@@ -6,6 +6,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Cancel changes
 ```markdown
 Syntax highlighted code block
+```
 
 # Header 1
 ## Header 2
@@ -16,5 +17,3 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
