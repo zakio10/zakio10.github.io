@@ -1,6 +1,6 @@
 ---
 title: JAPANESE PAGE
-layout: template
+layout: 
 filename: japanese.md
 --- 
 [English](README.md)
