@@ -1,3 +1,4 @@
+[English](README.md)
 ## 私のページにようこそ
 ### 教育
 - Mikage High School 2014-2017
