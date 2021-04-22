@@ -1,3 +1,5 @@
+---
+---
 [日本語](japanese.md)
 ## Welcome to Mypage!
 ### Education
