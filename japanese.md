@@ -25,4 +25,4 @@ Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10<
 <a href="https://iml.doshisha.ac.jp/">https://iml.doshisha.ac.jp/</a>  
 
 ### Contact
-<img src="\images\email.png">
+<img src="/images/email.png">
