@@ -8,6 +8,12 @@
 ### Interest
 Machine Learning, Natural Language Processing, Dialogue system
 
+### Link
+Twitter: https://twitter.com/zakio_10
+website: https://zakio-10.hatenablog.com/
+
 ### Note
 I'm a member of the Intelligent Mechanism Laboratory.  
 https://iml.doshisha.ac.jp/
+
+### Contact
