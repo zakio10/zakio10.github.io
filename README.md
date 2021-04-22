@@ -7,3 +7,8 @@
 
 ### Interest
 Machine Learning, Natural Language Processing, Dialogue system
+
+
+### Note
+I'm a member of Intelligent Mechanism Laboratory.
+https://iml.doshisha.ac.jp/
