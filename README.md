@@ -1,7 +1,7 @@
 <a href="/japanese">日本語</a>
 ## Welcome to Mypage!
 ### Profile
-<img src="/images/profile.jpg">
+<img src="/images/profile.jpg">  
 Name: Kanezaki Shota  
 Belong: Doshisha University, Intelligent Mechanism Laboratory  
 
