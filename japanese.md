@@ -5,7 +5,7 @@ title: 金崎 翔大
 description: コンピュータサイエンスを専攻しています。
 filename: japanese.md
 --- 
-[English](README.md)
+<a href="../">English</a>
 ## 私のページにようこそ
 ### 教育
 - 兵庫県立御影高等学校 2014-2017
