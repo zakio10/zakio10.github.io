@@ -25,4 +25,4 @@ I'm a member of the Intelligent Mechanism Laboratory.
 <a href="https://iml.doshisha.ac.jp/">https://iml.doshisha.ac.jp/</a>  
 
 ### Contact
-<img src="\images\email.png">
+<img src="/images/email.png">
