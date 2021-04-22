@@ -1,8 +1,8 @@
 ---
 title: JAPANESE PAGE
 theme: jekyll-theme-cayman
-title: Kanezaki Shota
-description: I'm a Japanese univ student. I major in computer science.
+title: 金崎 翔大
+description: コンピュータサイエンスを専攻しています。
 filename: japanese.md
 --- 
 [English](README.md)
