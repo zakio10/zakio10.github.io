@@ -1,3 +1,8 @@
+---
+title: JAPANESE PAGE
+layout: template
+filename: japanese.md
+--- 
 [English](README.md)
 ## 私のページにようこそ
 ### 教育
