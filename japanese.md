@@ -2,7 +2,6 @@
 title: JAPANESE PAGE
 theme: jekyll-theme-cayman
 title: 金崎 翔大
-description: コンピュータサイエンスを専攻しています。
 filename: japanese.md
 --- 
 <a href="../">English</a>
