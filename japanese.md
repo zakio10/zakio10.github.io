@@ -2,7 +2,8 @@
 ## 私のページにようこそ
 
 ### プロフィール
-<img src="/images/profile.jpg" width="100" height="100">  
+<img src="/images/profile.jpg" width="100" height="100">
+
 名前: 金崎 翔大  
 所属: 同志社大学, 知的機構研究室
 ### 教育
