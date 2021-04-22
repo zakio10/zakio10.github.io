@@ -1,9 +1,3 @@
----
-title: JAPANESE PAGE
-theme: jekyll-theme-cayman
-title: 金崎 翔大
-filename: japanese.md
---- 
 <a href="../">English</a>
 ## 私のページにようこそ
 ### 教育
