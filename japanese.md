@@ -8,13 +8,13 @@ filename: japanese.md
 [English](README.md)
 ## 私のページにようこそ
 ### 教育
-- Mikage High School 2014-2017
-- Sundai Preparatory School 2017-2018
-- Doshisha University(Faculty of Science and Engineering, Information Engineering) 2018-2022
+- 兵庫県立御影高等学校 2014-2017
+- 駿台予備学校(神戸校) 2017-2018
+- 同志社大学(理工学部, インテリジェント情報工学科) 2018-2022
 
-### Interest
-Machine Learning, Natural Language Processing, Dialogue system
+### 興味
+機械学習, 自然言語処理, 対話システム
 
 ### Note
-I'm a member of the Intelligent Mechanism Laboratory.  
+知的機構研究室(iml)に所属しています。
 https://iml.doshisha.ac.jp/
