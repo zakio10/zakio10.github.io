@@ -27,7 +27,7 @@ I'm a member of the Intelligent Mechanism Laboratory.
 <a href="https://iml.doshisha.ac.jp/">https://iml.doshisha.ac.jp/</a>  
 
 ### Product and experience
-WinterKC3(hackathon), LINE awards, LINE clover game application  
+WinterKC3(hackathon), LINE awards, LINE Clover game application  
 <a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">https://www.facebook.com/1767384153502374/posts/2293925790848205/</a>  
 
 ### Contact
