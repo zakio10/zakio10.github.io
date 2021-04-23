@@ -12,7 +12,7 @@ Belong: Doshisha University, Intelligent Mechanism Laboratory
 - Doshisha University(Computer science) 2018-2022
 
 ### Interest
-Machine Learning, Natural Language Processing, Dialogue system  
+Machine Learning, Low layer of computer(Architecture of computer system), Natural Language Processing, Dialogue system  
 I am interested in computers and intelligence. In particular, I am interested in human intelligence from an engineering perspective.
 
 ### Link
