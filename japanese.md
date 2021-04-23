@@ -27,7 +27,7 @@ Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10<
 <a href="https://iml.doshisha.ac.jp/">https://iml.doshisha.ac.jp/</a>  
 
 ### Product and experience
-冬KC3(仮), LINE賞, LINE Clovaのゲームアプリ開発 [<a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">url</a>]  
+冬KC3(仮), LINE賞, LINE Clovaのゲームアプリ開発, 2019 [<a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">url</a>]  
 
 ### Contact
 <img src="/images/email.png">
