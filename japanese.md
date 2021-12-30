@@ -33,7 +33,7 @@ Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10<
 冬KC3(仮), LINE賞, LINE Clovaのゲームアプリ開発, 2019 [<a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">url</a>]  
 
 ### Work experience
-インターンシップ, 理化学研究所ロボットガーディアンプロジェクト, 知識獲得・対話研究チーム, 2021/08-2021/10, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
+インターンシップ, 理化学研究所, ロボットガーディアンプロジェクト, 知識獲得・対話研究チーム, 2021/08-2021/10, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
 
 ### Contact
 <img src="/images/email.png">
