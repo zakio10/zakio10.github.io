@@ -10,6 +10,7 @@
 - 兵庫県立御影高等学校 2014-2017
 - 駿台予備学校(神戸校) 2017-2018
 - 同志社大学(理工学部, インテリジェント情報工学科) 2018-2022
+- 同志社大学大学院(理工学研究科, 情報工学専攻) 2022-2024  
 
 ### 興味
 機械学習, 低レイヤ, 自然言語処理, 対話システム  
@@ -23,7 +24,7 @@ AtCoder: <a href="https://atcoder.jp/users/zakio_10">https://atcoder.jp/users/za
 Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10</a>  
 
 ### Note
-知的機構研究室(iml)に所属しています。  
+知的機構研究室(iml)に所属しています。  理化学研究所ロボットガーディアンプロジェクトと共同研究をさせて頂いており、対話システムについて対話における同調(エントレインメント)の研究をしています。
 <a href="https://iml.doshisha.ac.jp/">https://iml.doshisha.ac.jp/</a>  
 
 ### Publications
@@ -34,6 +35,7 @@ Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10<
 
 ### Work experience
 インターンシップ, 理化学研究所, ロボットガーディアンプロジェクト, 知識獲得・対話研究チーム, 2021/08-2021/10, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
+研修生, 理化学研究所, ロボットガーディアンプロジェクト, 知識獲得・対話研究チーム, 2021/10-2024/3, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
 
 ### Contact
 <img src="/images/email.png">
