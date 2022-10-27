@@ -29,11 +29,14 @@ I'm a member of the Intelligent Mechanism Laboratory.
 ### Publications
 金崎 翔大, 河野 誠也, 湯口 彰重, 桂井 麻里衣, 吉野 幸一郎, 対話における後続発話のエントレインメント予測, 人工知能学会研究会資料 言語・音声理解と対話処理研究会, 2021, 93 巻, 93回 (2021/11), p. 50-55, 公開日 2021/11/20, Online ISSN 2436-4576, Print ISSN 0918-5682, [<a href="https://www.jstage.jst.go.jp/article/jsaislud/93/0/93_50/_article/-char/ja/">url</a>]  
 
+*金崎 翔大, 河野 誠也, 湯口 彰重, 桂井 麻里衣, 吉野 幸一郎, エントレインメント予測に基づいたニューラル雑談対話モデルの応答リランキング, 人工知能学会全国大会論文集, 2022, JSAI2022 巻, 第36回 (2022), セッションID 3Yin2-48, p. 3Yin248, 公開日 2022/07/11, [<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_3Yin248/_article/-char/ja">url</a>]  
+
 ### Product
 WinterKC3(hackathon), LINE awards, LINE Clover game application, 2019 [<a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">url</a>]   
 
 ### Work experience
 Internship,  The Institute of Physical and Chemical Research(RIKEN), Guardian Robot Project, Knowledge Acquisition and Dialogue Research Team, 2021/08-2021/10, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>] 
+Student trainee,  The Institute of Physical and Chemical Research(RIKEN), Guardian Robot Project, Knowledge Acquisition and Dialogue Research Team, 2021/10-2024/3, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>] 
 
 ### Contact
 <img src="/images/email.png">
