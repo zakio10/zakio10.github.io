@@ -37,9 +37,9 @@ I'm a member of the Intelligent Mechanism Laboratory.
 WinterKC3(hackathon), LINE awards, LINE Clover game application, 2019 [<a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">url</a>]   
 
 ### Work experience
-Teaching Assistant(Part-time) for "Information Engineering Experiment 3",  Doshisha University, Faculty of Science and Engineering, 2022/9-2022/4  
+Teaching Assistant(Part-time) for "Information Engineering Experiment 3",  Doshisha University, Faculty of Science and Engineering, 2022/9-2023/3  
 
-Teaching Assistant(Part-time) for "Machine Learning",  Doshisha University, Faculty of Science and Engineering, 2022/04-2022/9  
+Teaching Assistant(Part-time) for "Machine Learning",  Doshisha University, Faculty of Science and Engineering, 2022/4-2022/9  
 
 Internship,  The Institute of Physical and Chemical Research(RIKEN), Guardian Robot Project, Knowledge Acquisition and Dialogue Research Team, 2021/08-2021/10, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
 
