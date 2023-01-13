@@ -9,7 +9,8 @@ Belong: Doshisha University, Intelligent Mechanism Laboratory
 ### Education
 - Mikage High School 2014-2017
 - Sundai Preparatory School(Kobe) 2017-2018
-- Doshisha University(Computer science) 2018-2022
+- Doshisha University(Faculty of Science and Engineering, Computer science) 2018-2022
+- Doshisha University(Graduate School of Science and Engineering, Computer science) 2022-2024
 
 ### Interest
 Machine Learning, Low layer of computers(Architecture of computer system), Natural Language Processing, Dialogue system  
@@ -41,9 +42,10 @@ Teaching Assistant(Part-time) for "Information Engineering Experiment 3",  Doshi
 
 Teaching Assistant(Part-time) for "Machine Learning",  Doshisha University, Faculty of Science and Engineering, 2022/4-2022/9  
 
+Student trainee,  The Institute of Physical and Chemical Research(RIKEN), Guardian Robot Project, Knowledge Acquisition and Dialogue Research Team, 2021/10-2024/3, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
+
 Internship,  The Institute of Physical and Chemical Research(RIKEN), Guardian Robot Project, Knowledge Acquisition and Dialogue Research Team, 2021/08-2021/10, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
 
-Student trainee,  The Institute of Physical and Chemical Research(RIKEN), Guardian Robot Project, Knowledge Acquisition and Dialogue Research Team, 2021/10-2024/3, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>] 
 
 ### Contact
 kanezaki21[hoge]mm.doshisha.ac.jp  
