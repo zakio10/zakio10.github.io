@@ -38,8 +38,14 @@ Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10<
 冬KC3(仮), LINE賞, LINE Clovaのゲームアプリ開発, 2019 [<a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">url</a>]  
 
 ### Work experience
+Teaching Assistant(アルバイト) 「情報工学実験3」,  同志社大学, 理工学部, 2022/9-2022/4  
+
+Teaching Assistant(アルバイト) 「機械学習」,  同志社大学, 理工学部, 2022/04-2022/9  
+
 インターンシップ, 理化学研究所, ロボットガーディアンプロジェクト, 知識獲得・対話研究チーム, 2021/08-2021/10, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
+
 研修生, 理化学研究所, ロボットガーディアンプロジェクト, 知識獲得・対話研究チーム, 2021/10-2024/3, [<a href="https://grp.riken.jp/labs/knowl_acqui_dialogue/">url</a>]  
 
 ### Contact
-<img src="/images/email.png">
+kanezaki21[hoge]mm.doshisha.ac.jp  
+※メールをする際には[hoge]を@に置き換えて下さい。
