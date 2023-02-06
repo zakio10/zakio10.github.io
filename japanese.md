@@ -41,7 +41,7 @@ Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10<
 
 #### 冬KC3(仮), LINE賞, LINE Clovaのゲームアプリ開発, 2019 [<a href="https://www.facebook.com/1767384153502374/posts/2293925790848205/">url</a>]  
 
-チームでLINE Clovaを使った。対話型のストーリーゲームアプリを作成した。LINEの社員さんの推薦でLINE賞を獲得した。  
+関西の大学の情報系サークルが集まるハッカソンのイベントにて6人のチームでLINE Clovaを用いた対話型のストーリーゲームアプリを作成した。LINEの社員さんの推薦でLINE賞を獲得した。  
 
 ### Work experience
 ティーチングアシスタント(アルバイト) 「情報工学実験3」,  同志社大学, 理工学部, 2022/9-2023/3  
