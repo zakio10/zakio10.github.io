@@ -25,7 +25,11 @@ Kaggle: <a href="https://www.kaggle.com/zakio10">https://www.kaggle.com/zakio10<
 
 ### Note
 知的機構研究室(iml)に所属しています。  理化学研究所ロボットガーディアンプロジェクトと共同研究をさせて頂いており、対話システムについて対話における同調(エントレインメント)の研究をしています。
-<a href="https://iml.doshisha.ac.jp/">https://iml.doshisha.ac.jp/</a>  
+<a href="https://iml.doshisha.ac.jp/">https://iml.doshisha.ac.jp/</a> 
+
+### certification
+#### 東京大学グローバル消費インテリジェンス寄付講座 修了 GCI2020Winter  
+本コースでは、あらゆる分野で武器になるデータの解析・分析スキルのコアとなる機械学習およびビッグデータを扱う技術、分析結果を効果的に可視化する技術の基盤を網羅的に身につけ、一人前のデータサイエンティストとして活躍する入り口に立つことを目指します。
 
 ### Publications
 *金崎 翔大, *渡邉 寛大, 河野 誠也, 湯口 彰重, 桂井 麻里衣, 吉野 幸一郎, 対話行為予測とエントレインメント予測に基づいたマルチモーダル対話システム, 人工知能学会研究会資料 言語・音声理解と対話処理研究会, 2022, 96 巻, 第96回(2022.12), p. 20-, 公開日 2022/12/01, [<a href="https://www.jstage.jst.go.jp/article/jsaislud/96/0/96_20/_article/-char/ja">url</a>]  
